@@ -6,7 +6,7 @@
   font-family: "Open Sans", sans-serif;
   padding: 20px 50px;
   background-image: url("/src/11.jpeg");
-  background-color: rgb(245, 239, 242);
+  background-color: rgb(245, 239, 240);
 }
 .left {
   width: 50%;
@@ -80,4 +80,7 @@ button {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+}
+body {
+  background-image: url("/src/11.jpeg");
 }
