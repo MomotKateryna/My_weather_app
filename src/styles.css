@@ -6,6 +6,7 @@
   font-family: "Open Sans", sans-serif;
   padding: 20px 50px;
   background-image: url("/src/11.jpeg");
+  background-color: rgb(245, 239, 242);
 }
 .left {
   width: 50%;
